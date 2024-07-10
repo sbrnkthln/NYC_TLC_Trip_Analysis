@@ -20,3 +20,7 @@ Berdasarkan informasi yang diperoleh dapat ditarik 3 pertanyaan terperinci sebag
 
 ### **Analysis Objectives**
 Melalui analisis ini diharapkan NYC TLC dapat menciptakan lingkungan transportasi yang efisien, aman, dan memenuhi kebutuhan semua pihak yang terlibat, mencakup pengemudi, penumpang, dan lembaga itu sendiri. Ini menciptakan siklus positif di mana efisiensi operasional yang ditingkatkan, pemahaman yang lebih baik terhadap pola operasional, dan pelayanan yang lebih baik secara keseluruhan dapat mencapai misi NYC TLC.
+
+### **Data Visualization:**
+![Dashboard 1](https://github.com/sbrnkthln/nyc_tlc_trip_analysis/assets/134665411/a07d61ad-fa84-4ac6-ae30-ee093724d20c)
+Link to Tableau: https://public.tableau.com/app/profile/sabrina.kathleen/viz/TheNYCTLCTripAnalysis/Dashboard1
